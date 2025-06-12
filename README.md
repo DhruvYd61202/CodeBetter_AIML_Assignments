@@ -24,3 +24,4 @@ The assignments in this repository include practical implementations of:
 ## 📁 Folder Structure
 
 Each assignment is organized as a separate notebook:
+- Exploratory Data Analysis on Netflix Movies/Series Dataset.
